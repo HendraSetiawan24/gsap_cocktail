@@ -116,7 +116,6 @@ const Hero = () => {
                 playsInline
                 preload="auto"
                 src="/videos/output.mp4"
-                className="h-full w-full object-cover"
                 loop
             />
             </div>
